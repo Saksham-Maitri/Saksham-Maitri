@@ -1,3 +1,7 @@
+<p align='center'>
+  <img src = 'https://github.com/Saksham-Maitri/Saksham-Maitri/blob/main/assets/tenor.gif' alt = 'animation ' >
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Saksham Maitri</h1>
 <h3 align="center">A passionate student who likes to learn new frameworks.</h3>

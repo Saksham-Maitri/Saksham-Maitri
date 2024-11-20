@@ -19,7 +19,7 @@
 </p>
 
 <table>
-<caption>Abhishek Chaudhary</caption>
+<caption></caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>

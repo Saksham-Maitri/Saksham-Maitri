@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Maitri</h1>
 <h3 align="center">A passionate student who likes to learn new frameworks.</h3>
 
-- 🌱 I’m currently learning **Typescript, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saksham-Maitri](https://github.com/Saksham-Maitri)
 

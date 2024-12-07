@@ -31,7 +31,7 @@
 <tr><th scope='row'>Alma mater</th><td>Indian Institute of Science</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 <tr><th scope='row'>Occupation</th><td>Exploring Interest</td></tr>
-<tr><th scope='row'>Skills</th><td>Python, Go, R, SQL, HTML, CSS, CPP</td></tr>
+<tr><th scope='row'>Skills</th><td>Python, Go, R, SQL, HTML, CSS, CPP, Ruby</td></tr>
 </tbody>
 </table>
 
